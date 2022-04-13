@@ -7,7 +7,7 @@
 
 <h3> 🧑🏻‍💻 Sobre mim </h3>
 
-- Estou cursando Análise e Desenvolvimento de Software.
+- Estou cursando Análise e Desenvolvimento de Sistemas.
 - Trabalho na área de infraestrutura de TI a mais de 9 anos.
 - Faço o curso do [Bonieky Lacerda - B7Web](https://b7web.com.br/fullstack/).
 - Também estou na plataforma de estudos da DIO, [segue meu currículo](https://web.dio.me/users/rafaelaraujo1707?tab=achievements) para ver minhas conquistas e projetos.
