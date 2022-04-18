@@ -19,7 +19,6 @@
 - Javascript
 - HTML
 - CSS
-- Git/Github
 
 <H3> ⚙️ Projetos/🛠️ Em construção</H3>
 
