@@ -20,7 +20,6 @@
 - HTML
 - CSS
 - Git/Github
-- Scrum
 
 <H3> ⚙️ Projetos/🛠️ Em construção</H3>
 
